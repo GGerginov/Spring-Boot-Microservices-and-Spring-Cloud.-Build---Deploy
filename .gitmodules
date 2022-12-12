@@ -1,0 +1,12 @@
+[submodule "PhotoAppDiscoveryService"]
+	path = PhotoAppDiscoveryService
+	url = https://github.com/GGerginov/PhotoAppDiscoveryService.git
+[submodule "PhotoAppApiUsers"]
+	path = PhotoAppApiUsers
+	url = https://github.com/GGerginov/PhotoAppApiUsers.git
+[submodule "PhotoAppAccountManagement"]
+	path = PhotoAppAccountManagement
+	url = https://github.com/GGerginov/PhotoAppAccountManagement.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/GGerginov/ApiGateway.git
